@@ -1,0 +1,6 @@
+print("##################################\n")
+print("#                                #\n")
+print("#   MUHAMMAD QOHARY RAWIDAFANY   #\n")
+print("#         2210817210014          #\n")
+print("#                                #\n")
+print("##################################\n")
