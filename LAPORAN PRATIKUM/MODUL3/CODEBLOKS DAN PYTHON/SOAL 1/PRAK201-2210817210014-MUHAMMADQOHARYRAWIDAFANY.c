@@ -17,5 +17,12 @@ int main ()
     gets(H);
     printf("No.HP                   :");
     gets(HP);
+    printf("\nNama                    :%s\n",NA);
+    printf("NIM                     :%s\n",NM);
+    printf("Kelas Pararel           :%s\n",KP);
+    printf("Tempat/Tanggal Lahir    :%s\n",TTL);
+    printf("Alamat                  :%s\n",A);
+    printf("Hobby                   :%s\n",H);
+    printf("No.HP                   :%s\n",HP);
     return 0;
 }
