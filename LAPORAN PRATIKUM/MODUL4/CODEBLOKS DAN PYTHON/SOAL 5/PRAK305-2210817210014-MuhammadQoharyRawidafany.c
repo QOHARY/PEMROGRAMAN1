@@ -18,4 +18,5 @@ int main ()
         printf("%d hari %02d : %02d : %02d\n",H,J,M,D);
     }
     }
+    return 0;
 }

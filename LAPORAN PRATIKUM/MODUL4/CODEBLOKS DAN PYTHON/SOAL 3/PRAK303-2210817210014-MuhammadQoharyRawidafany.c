@@ -15,4 +15,5 @@ int main()
         printf("nol\n",I);
     }
     }
+    return 0;
 }

@@ -21,4 +21,5 @@ int main ()
         printf("E\n",H);
     }
     }
+    return 0;
 }
