@@ -14,6 +14,6 @@ for ulang in range (3) :
                 print("+", end=" ")
         h0 = i * k
         h1 = h1 + h0
-        print("= ", h1)
+        print("= %d" % h1)
         h2 = h2 + h1
-    print(h2)
+    print("%d" % h2)
