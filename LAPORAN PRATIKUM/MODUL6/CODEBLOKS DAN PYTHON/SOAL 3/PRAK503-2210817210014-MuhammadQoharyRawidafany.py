@@ -2,7 +2,6 @@ def maksimal (a,b):
     return max(a,b)
 def minimal (a,b):
     return min(a,b)
-
 batas = 0
 maks = -10000
 minim = 100000
