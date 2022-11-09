@@ -9,13 +9,11 @@ int mutlak(int nilai){
 int main()
 {
     int a,b,c,d,hasil;
-    for (int i=1;i<=3;i++){
     scanf("%d",&a);
     scanf("%d",&c);
     scanf("%d",&b);
     scanf("%d",&d);
     hasil = hitung(a,b) + hitung(c,d);
     printf("%d",mutlak(hasil));
-    }
     return 0;
 }

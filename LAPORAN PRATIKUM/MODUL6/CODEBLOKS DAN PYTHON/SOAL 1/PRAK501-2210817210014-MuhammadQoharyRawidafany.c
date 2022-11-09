@@ -16,10 +16,8 @@ int MaxBilangan (int q, int w, int e, int r){
 int main()
 {
     int a,b,c,d;
-    for (int i=1;i<=3;i++){
     scanf("%d %d %d %d", &a, &b, &c, &d);
     int hasil = MaxBilangan(a, b, c, d);
     printf("%d", hasil);
-    }
     return 0;
 }

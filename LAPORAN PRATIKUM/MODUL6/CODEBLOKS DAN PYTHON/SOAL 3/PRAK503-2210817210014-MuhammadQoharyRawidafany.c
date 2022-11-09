@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 int minimal (int a, int b){
     if (a<b){
         return a;
