@@ -5,7 +5,6 @@ def biodata(tahunlahir,namaku,asal) :
     print("Umur saya : ",tahun_sekarang - tahunlahir)
     print("Saya Adalah Angkatan : ",tahun_sekarang)
     print("Asal Saya dari : ",asal)
-    
 tahunlahir = int (input(""))
 namaku = input("")
 asal = input("")
